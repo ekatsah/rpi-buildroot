@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PYTHON_REDIS
+	bool "python-redis"
+	help
+	  A Python redis client module.
+	  https://github.com/andymccurdy/redis-py

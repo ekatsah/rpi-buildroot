@@ -1,0 +1,4 @@
+config BR2_PACKAGE_FOSDEMX
+	bool "fosdemx demo python firmware"
+	help
+	  fosdemx demo python firmware
